@@ -1,0 +1,14 @@
+.container{
+    max-width: 960;
+    margin: 0 auto;
+    font-size: 24px;
+    
+    padding : 25px;
+}
+
+.parallax{
+    background: url('ubun.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1200px;
+}
